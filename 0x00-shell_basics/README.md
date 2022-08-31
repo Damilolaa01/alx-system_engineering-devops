@@ -1,1 +1,1 @@
-My first readme
+Displaying the content list of my directory
